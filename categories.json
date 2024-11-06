@@ -1,0 +1,47 @@
+[
+    {
+        "category": "Magic: The Gathering",
+        "folder_name": "MTG",
+        "description": "Image contains one or more Magic: The Gathering cards."
+    },
+    {
+        "category": "Meme",
+        "folder_name": "Memes",
+        "description": "Image displays a meme."
+    },
+    {
+        "category": "Social Media",
+        "folder_name": "Social_media",
+        "description": "Image displays a post on a social media platform."
+    },
+    {
+        "category": "Song",
+        "folder_name": "Lieder",
+        "description": "Image displays a song or album."
+    },
+    {
+        "category": "Handy screen",
+        "folder_name": "Handybildschirm",
+        "description": "Image displays a simple handy screenshot of the main screen or settings."
+    },
+    {
+        "category": "App development",
+        "folder_name": "Arbeit",
+        "description": "Image contains bottom tabs \"Start\" \"Verlauf\" \"Versorgung\" \"Mehr\" or \"Start\" \"History\" \"Care\" \"More\" or an error message."
+    },
+    {
+        "category": "Tickets",
+        "folder_name": "Tickets",
+        "description": "Image of a ticket, barcode or QR-code to an event or tour."
+    },
+    {
+        "category": "People",
+        "folder_name": "Menschen",
+        "description": "Image of one or more people who are the main focus of the image."
+    },
+    {
+        "category": "Other",
+        "folder_name": "Sonstige",
+        "description": "Image is not matching other categories."
+    }
+]

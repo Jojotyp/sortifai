@@ -14,9 +14,13 @@ openai.api_key = api_key
 # Test request to verify if the key is loaded successfully
 client = openai.OpenAI()
 
+model_content = "You are an image sorting assistant. You look at the given image and classify it into one of the given categories."
+prompt = "... The category that fits the best will be your choice."
+
 response = client.chat.completions.create(
     model="gpt-4o-mini",
     messages=[
+        {"role": "assistant", "content": "You are a helpful assistant."},
         {
             "role": "user",
             "content": [

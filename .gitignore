@@ -13,4 +13,5 @@ venv
 
 # files
 .env
+categories.json
 test*.*

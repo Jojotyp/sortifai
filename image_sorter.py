@@ -1,5 +1,5 @@
 """
-Sort images 
+Sort images of a given source_folder into a given output_folder by categories defined in a categories.json file.
 """
 
 import os
